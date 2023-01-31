@@ -8,7 +8,7 @@
 <title> 방 명 록 </title>
 <style type="text/css">
 	a { text-decoration: none;}
-	table{width: 599px; border-collapse:collapse; text-align: center;}
+	table{width: 600px; border-collapse:collapse; text-align: center;}
 	table,th,td{border: 1px solid black; padding: 3px}
 	div{width: 600px; margin:auto; text-align: center;}
 </style>
